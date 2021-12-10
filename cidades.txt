@@ -1,0 +1,100 @@
+São Paulo
+Rio de Janeiro
+Salvador
+Brasília
+Fortaleza
+Belo Horizonte
+Manaus
+Curitiba
+Recife
+Porto Alegre
+Belém
+Goiânia
+Guarulhos
+Campinas
+São Luís
+São Gonçalo
+Maceió
+Duque de Caxias
+Teresina
+Natal
+Nova Iguaçu
+Campo Grande
+São Bernardo do Campo
+João Pessoa
+Santo André
+Osasco
+Jaboatão dos Guararapes
+São José dos Campos
+Ribeirão Preto
+Uberlândia
+Contagem
+Sorocaba
+Aracaju
+Feira de Santana
+Cuiabá
+Juiz de Fora
+Joinville
+Londrina
+Niterói
+Ananindeua
+Belford Roxo
+Campos dos Goytacazes
+São João de Meriti
+Aparecida de Goiânia
+Caxias do Sul
+Porto Velho
+Florianópolis
+Santos
+Mauá
+Vila Velha
+Serra
+São José do Rio Preto
+Macapá
+Mogi das Cruzes
+Diadema
+Campina Grande
+Betim
+Olinda
+Jundiaí
+Carapicuíba
+Piracicaba
+Montes Claros
+Maringá
+Cariacica
+Bauru
+Rio Branco
+Anápolis
+São Vicente
+Pelotas
+Vitória
+Caucaia
+Canoas
+Itaquaquecetuba
+Franca
+Caruaru
+Ponta Grossa
+Blumenau
+Vitória da Conquista
+Paulista
+Ribeirão das Neves
+Uberaba
+Petrópolis
+Santarém
+Petrolina
+Guarujá
+Cascavel
+Boa Vista
+Taubaté
+Limeira
+São José dos Pinhais
+Governador Valadares
+Suzano
+Praia Grande
+Santa Maria
+Mossoró
+Volta Redonda
+Foz do Iguaçu
+Gravataí
+Várzea Grande
+Juazeiro do Norte

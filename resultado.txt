@@ -1,0 +1,106 @@
+<td><b><a href="/wiki/S%C3%A3o_Paulo_(cidade)" class="mw-redirect" title="São Paulo (cidade)">São Paulo</a></b>
+<td><b><a href="/wiki/Rio_de_Janeiro_(cidade)" class="mw-redirect" title="Rio de Janeiro (cidade)">Rio de Janeiro</a></b>
+<td><b><a href="/wiki/Salvador_(Bahia)" class="mw-redirect" title="Salvador (Bahia)">Salvador</a></b>
+<td><a href="/wiki/Bahia" title="Bahia"><img alt="Bahia" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Bandeira_da_Bahia.svg/20px-Bandeira_da_Bahia.svg.png" decoding="async" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Bandeira_da_Bahia.svg/30px-Bandeira_da_Bahia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/28/Bandeira_da_Bahia.svg/40px-Bandeira_da_Bahia.svg.png 2x" data-file-width="1500" data-file-height="1000"></a>&nbsp;<a href="/wiki/Bahia" title="Bahia">Bahia</a>
+<td><b><a href="/wiki/Bras%C3%ADlia" title="Brasília">Brasília</a></b>
+<td><b><a href="/wiki/Fortaleza" title="Fortaleza">Fortaleza</a></b>
+<td><b><a href="/wiki/Belo_Horizonte" title="Belo Horizonte">Belo Horizonte</a></b>
+<td><b><a href="/wiki/Manaus" title="Manaus">Manaus</a></b>
+<td><b><a href="/wiki/Curitiba" title="Curitiba">Curitiba</a></b>
+<td><b><a href="/wiki/Recife" title="Recife">Recife</a></b>
+<td><b><a href="/wiki/Porto_Alegre" title="Porto Alegre">Porto Alegre</a></b>
+<td><b><a href="/wiki/Bel%C3%A9m_(Par%C3%A1)" title="Belém (Pará)">Belém</a></b>
+<td><a href="/wiki/Par%C3%A1" title="Pará"><img alt="Pará" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/02/Bandeira_do_Par%C3%A1.svg/20px-Bandeira_do_Par%C3%A1.svg.png" decoding="async" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/02/Bandeira_do_Par%C3%A1.svg/30px-Bandeira_do_Par%C3%A1.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/02/Bandeira_do_Par%C3%A1.svg/40px-Bandeira_do_Par%C3%A1.svg.png 2x" data-file-width="900" data-file-height="600"></a>&nbsp;<a href="/wiki/Par%C3%A1" title="Pará">Pará</a>
+<td><b><a href="/wiki/Goi%C3%A2nia" title="Goiânia">Goiânia</a></b>
+<td><a href="/wiki/Guarulhos" title="Guarulhos">Guarulhos</a>
+<td><a href="/wiki/Campinas" title="Campinas">Campinas</a>
+<td><b><a href="/wiki/S%C3%A3o_Lu%C3%ADs_(Maranh%C3%A3o)" title="São Luís (Maranhão)">São Luís</a></b>
+<td><a href="/wiki/S%C3%A3o_Gon%C3%A7alo_(Rio_de_Janeiro)" title="São Gonçalo (Rio de Janeiro)">São Gonçalo</a>
+<td><b><a href="/wiki/Macei%C3%B3" title="Maceió">Maceió</a></b>
+<td><a href="/wiki/Duque_de_Caxias_(Rio_de_Janeiro)" title="Duque de Caxias (Rio de Janeiro)">Duque de Caxias</a>
+<td><b><a href="/wiki/Teresina" title="Teresina">Teresina</a></b>
+<td><b><a href="/wiki/Natal_(Rio_Grande_do_Norte)" title="Natal (Rio Grande do Norte)">Natal</a></b>
+<td><a href="/wiki/Nova_Igua%C3%A7u" title="Nova Iguaçu">Nova Iguaçu</a>
+<td><b><a href="/wiki/Campo_Grande_(Mato_Grosso_do_Sul)" title="Campo Grande (Mato Grosso do Sul)">Campo Grande</a></b>
+<td><a href="/wiki/S%C3%A3o_Bernardo_do_Campo" title="São Bernardo do Campo">São Bernardo do Campo</a>
+<td><b><a href="/wiki/Jo%C3%A3o_Pessoa" title="João Pessoa">João Pessoa</a></b>
+<td><a href="/wiki/Santo_Andr%C3%A9_(S%C3%A3o_Paulo)" title="Santo André (São Paulo)">Santo André</a>
+<td><a href="/wiki/Osasco" title="Osasco">Osasco</a>
+<td><a href="/wiki/Jaboat%C3%A3o_dos_Guararapes" title="Jaboatão dos Guararapes">Jaboatão dos Guararapes</a>
+<td><a href="/wiki/S%C3%A3o_Jos%C3%A9_dos_Campos" title="São José dos Campos">São José dos Campos</a>
+<td><a href="/wiki/Ribeir%C3%A3o_Preto" title="Ribeirão Preto">Ribeirão Preto</a>
+<td><a href="/wiki/Uberl%C3%A2ndia" title="Uberlândia">Uberlândia</a>
+<td><a href="/wiki/Contagem" title="Contagem">Contagem</a>
+<td><a href="/wiki/Sorocaba" title="Sorocaba">Sorocaba</a>
+<td><b><a href="/wiki/Aracaju" title="Aracaju">Aracaju</a></b>
+<td><a href="/wiki/Feira_de_Santana" title="Feira de Santana">Feira de Santana</a>
+<td><a href="/wiki/Bahia" title="Bahia"><img alt="Bahia" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Bandeira_da_Bahia.svg/20px-Bandeira_da_Bahia.svg.png" decoding="async" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Bandeira_da_Bahia.svg/30px-Bandeira_da_Bahia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/28/Bandeira_da_Bahia.svg/40px-Bandeira_da_Bahia.svg.png 2x" data-file-width="1500" data-file-height="1000"></a>&nbsp;<a href="/wiki/Bahia" title="Bahia">Bahia</a>
+<td><b><a href="/wiki/Cuiab%C3%A1" title="Cuiabá">Cuiabá</a></b>
+<td><a href="/wiki/Juiz_de_Fora" title="Juiz de Fora">Juiz de Fora</a>
+<td><a href="/wiki/Joinville" title="Joinville">Joinville</a>
+<td><a href="/wiki/Londrina" title="Londrina">Londrina</a>
+<td><a href="/wiki/Niter%C3%B3i" title="Niterói">Niterói</a>
+<td><a href="/wiki/Ananindeua" title="Ananindeua">Ananindeua</a>
+<td><a href="/wiki/Par%C3%A1" title="Pará"><img alt="Pará" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/02/Bandeira_do_Par%C3%A1.svg/20px-Bandeira_do_Par%C3%A1.svg.png" decoding="async" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/02/Bandeira_do_Par%C3%A1.svg/30px-Bandeira_do_Par%C3%A1.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/02/Bandeira_do_Par%C3%A1.svg/40px-Bandeira_do_Par%C3%A1.svg.png 2x" data-file-width="900" data-file-height="600"></a>&nbsp;<a href="/wiki/Par%C3%A1" title="Pará">Pará</a>
+<td><a href="/wiki/Belford_Roxo" title="Belford Roxo">Belford Roxo</a>
+<td><a href="/wiki/Campos_dos_Goytacazes" title="Campos dos Goytacazes">Campos dos Goytacazes</a>
+<td><a href="/wiki/S%C3%A3o_Jo%C3%A3o_de_Meriti" title="São João de Meriti">São João de Meriti</a>
+<td><a href="/wiki/Aparecida_de_Goi%C3%A2nia" title="Aparecida de Goiânia">Aparecida de Goiânia</a>
+<td><a href="/wiki/Caxias_do_Sul" title="Caxias do Sul">Caxias do Sul</a>
+<td><b><a href="/wiki/Porto_Velho" title="Porto Velho">Porto Velho</a></b>
+<td><b><a href="/wiki/Florian%C3%B3polis" title="Florianópolis">Florianópolis</a></b>
+<td><a href="/wiki/Santos" title="Santos">Santos</a>
+<td><a href="/wiki/Mau%C3%A1" title="Mauá">Mauá</a>
+<td><a href="/wiki/Vila_Velha" title="Vila Velha">Vila Velha</a>
+<td><a href="/wiki/Serra_(Esp%C3%ADrito_Santo)" title="Serra (Espírito Santo)">Serra</a>
+<td><a href="/wiki/S%C3%A3o_Jos%C3%A9_do_Rio_Preto" title="São José do Rio Preto">São José do Rio Preto</a>
+<td><b><a href="/wiki/Macap%C3%A1" title="Macapá">Macapá</a></b>
+<td><a href="/wiki/Mogi_das_Cruzes" title="Mogi das Cruzes">Mogi das Cruzes</a>
+<td><a href="/wiki/Diadema" title="Diadema">Diadema</a>
+<td><a href="/wiki/Campina_Grande" title="Campina Grande">Campina Grande</a>
+<td><a href="/wiki/Betim" title="Betim">Betim</a>
+<td><a href="/wiki/Olinda" title="Olinda">Olinda</a>
+<td><a href="/wiki/Jundia%C3%AD" title="Jundiaí">Jundiaí</a>
+<td><a href="/wiki/Carapicu%C3%ADba" title="Carapicuíba">Carapicuíba</a>
+<td><a href="/wiki/Piracicaba" title="Piracicaba">Piracicaba</a>
+<td><a href="/wiki/Montes_Claros" title="Montes Claros">Montes Claros</a>
+<td><a href="/wiki/Maring%C3%A1" title="Maringá">Maringá</a>
+<td><a href="/wiki/Cariacica" title="Cariacica">Cariacica</a>
+<td><a href="/wiki/Bauru" title="Bauru">Bauru</a>
+<td><b><a href="/wiki/Rio_Branco" title="Rio Branco">Rio Branco</a></b>
+<td><a href="/wiki/An%C3%A1polis" title="Anápolis">Anápolis</a>
+<td><a href="/wiki/S%C3%A3o_Vicente_(S%C3%A3o_Paulo)" title="São Vicente (São Paulo)">São Vicente</a>
+<td><a href="/wiki/Pelotas" title="Pelotas">Pelotas</a>
+<td><b><a href="/wiki/Vit%C3%B3ria_(Esp%C3%ADrito_Santo)" title="Vitória (Espírito Santo)">Vitória</a></b>
+<td><a href="/wiki/Caucaia" title="Caucaia">Caucaia</a>
+<td><a href="/wiki/Canoas" title="Canoas">Canoas</a>
+<td><a href="/wiki/Itaquaquecetuba" title="Itaquaquecetuba">Itaquaquecetuba</a>
+<td><a href="/wiki/Franca" title="Franca">Franca</a>
+<td><a href="/wiki/Caruaru" title="Caruaru">Caruaru</a>
+<td><a href="/wiki/Ponta_Grossa" title="Ponta Grossa">Ponta Grossa</a>
+<td><a href="/wiki/Blumenau" title="Blumenau">Blumenau</a>
+<td><a href="/wiki/Vit%C3%B3ria_da_Conquista" title="Vitória da Conquista">Vitória da Conquista</a>
+<td><a href="/wiki/Bahia" title="Bahia"><img alt="Bahia" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Bandeira_da_Bahia.svg/20px-Bandeira_da_Bahia.svg.png" decoding="async" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Bandeira_da_Bahia.svg/30px-Bandeira_da_Bahia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/28/Bandeira_da_Bahia.svg/40px-Bandeira_da_Bahia.svg.png 2x" data-file-width="1500" data-file-height="1000"></a>&nbsp;<a href="/wiki/Bahia" title="Bahia">Bahia</a>
+<td><a href="/wiki/Paulista_(Pernambuco)" title="Paulista (Pernambuco)">Paulista</a>
+<td><a href="/wiki/Ribeir%C3%A3o_das_Neves" title="Ribeirão das Neves">Ribeirão das Neves</a>
+<td><a href="/wiki/Uberaba" title="Uberaba">Uberaba</a>
+<td><a href="/wiki/Petr%C3%B3polis" title="Petrópolis">Petrópolis</a>
+<td><a href="/wiki/Santar%C3%A9m_(Par%C3%A1)" title="Santarém (Pará)">Santarém</a>
+<td><a href="/wiki/Par%C3%A1" title="Pará"><img alt="Pará" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/02/Bandeira_do_Par%C3%A1.svg/20px-Bandeira_do_Par%C3%A1.svg.png" decoding="async" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/02/Bandeira_do_Par%C3%A1.svg/30px-Bandeira_do_Par%C3%A1.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/02/Bandeira_do_Par%C3%A1.svg/40px-Bandeira_do_Par%C3%A1.svg.png 2x" data-file-width="900" data-file-height="600"></a>&nbsp;<a href="/wiki/Par%C3%A1" title="Pará">Pará</a>
+<td><a href="/wiki/Petrolina" title="Petrolina">Petrolina</a>
+<td><a href="/wiki/Guaruj%C3%A1" title="Guarujá">Guarujá</a>
+<td><a href="/wiki/Cascavel_(Paran%C3%A1)" title="Cascavel (Paraná)">Cascavel</a>
+<td><b><a href="/wiki/Boa_Vista_(Roraima)" title="Boa Vista (Roraima)">Boa Vista</a></b>
+<td><a href="/wiki/Taubat%C3%A9" title="Taubaté">Taubaté</a>
+<td><a href="/wiki/Limeira" title="Limeira">Limeira</a>
+<td><a href="/wiki/S%C3%A3o_Jos%C3%A9_dos_Pinhais" title="São José dos Pinhais">São José dos Pinhais</a>
+<td><a href="/wiki/Governador_Valadares" title="Governador Valadares">Governador Valadares</a>
+<td><a href="/wiki/Suzano" title="Suzano">Suzano</a>
+<td><a href="/wiki/Praia_Grande_(S%C3%A3o_Paulo)" title="Praia Grande (São Paulo)">Praia Grande</a>
+<td><a href="/wiki/Santa_Maria_(Rio_Grande_do_Sul)" title="Santa Maria (Rio Grande do Sul)">Santa Maria</a>
+<td><a href="/wiki/Mossor%C3%B3" title="Mossoró">Mossoró</a>
+<td><a href="/wiki/Volta_Redonda" title="Volta Redonda">Volta Redonda</a>
+<td><a href="/wiki/Foz_do_Igua%C3%A7u" title="Foz do Iguaçu">Foz do Iguaçu</a>
+<td><a href="/wiki/Gravata%C3%AD" title="Gravataí">Gravataí</a>
+<td><a href="/wiki/V%C3%A1rzea_Grande_(Mato_Grosso)" title="Várzea Grande (Mato Grosso)">Várzea Grande</a>
+<td><a href="/wiki/Juazeiro_do_Norte" title="Juazeiro do Norte">Juazeiro do Norte</a>

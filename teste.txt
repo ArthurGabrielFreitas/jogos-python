@@ -1,0 +1,901 @@
+<tbody>
+<tr>
+<td>1
+</td>
+<td><b><a href="/wiki/S%C3%A3o_Paulo_(cidade)" class="mw-redirect" title="São Paulo (cidade)">São Paulo</a></b>
+</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg/22px-Bandeira_do_estado_de_S%C3%A3o_Paulo.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg/33px-Bandeira_do_estado_de_S%C3%A3o_Paulo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg/44px-Bandeira_do_estado_de_S%C3%A3o_Paulo.svg.png 2x" data-file-width="780" data-file-height="520">&nbsp;<a href="/wiki/S%C3%A3o_Paulo_(estado)" title="São Paulo (estado)">São Paulo</a>
+</td>
+<td align="right">11&nbsp;253&nbsp;503
+</td></tr>
+<tr>
+<td>2
+</td>
+<td><b><a href="/wiki/Rio_de_Janeiro_(cidade)" class="mw-redirect" title="Rio de Janeiro (cidade)">Rio de Janeiro</a></b>
+</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Bandeira_do_estado_do_Rio_de_Janeiro.svg/20px-Bandeira_do_estado_do_Rio_de_Janeiro.svg.png" decoding="async" width="20" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Bandeira_do_estado_do_Rio_de_Janeiro.svg/30px-Bandeira_do_estado_do_Rio_de_Janeiro.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Bandeira_do_estado_do_Rio_de_Janeiro.svg/40px-Bandeira_do_estado_do_Rio_de_Janeiro.svg.png 2x" data-file-width="1000" data-file-height="700">&nbsp;<a href="/wiki/Rio_de_Janeiro_(estado)" title="Rio de Janeiro (estado)">Rio de Janeiro</a>
+</td>
+<td align="right">6&nbsp;320&nbsp;446
+</td></tr>
+<tr>
+<td>3
+</td>
+<td><b><a href="/wiki/Salvador_(Bahia)" class="mw-redirect" title="Salvador (Bahia)">Salvador</a></b>
+</td>
+<td><a href="/wiki/Bahia" title="Bahia"><img alt="Bahia" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Bandeira_da_Bahia.svg/20px-Bandeira_da_Bahia.svg.png" decoding="async" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Bandeira_da_Bahia.svg/30px-Bandeira_da_Bahia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/28/Bandeira_da_Bahia.svg/40px-Bandeira_da_Bahia.svg.png 2x" data-file-width="1500" data-file-height="1000"></a>&nbsp;<a href="/wiki/Bahia" title="Bahia">Bahia</a>
+</td>
+<td align="right">2&nbsp;675&nbsp;656
+</td></tr>
+<tr>
+<td>4
+</td>
+<td><b><a href="/wiki/Bras%C3%ADlia" title="Brasília">Brasília</a></b>
+</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Bandeira_do_Distrito_Federal_%28Brasil%29.svg/20px-Bandeira_do_Distrito_Federal_%28Brasil%29.svg.png" decoding="async" width="20" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Bandeira_do_Distrito_Federal_%28Brasil%29.svg/30px-Bandeira_do_Distrito_Federal_%28Brasil%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Bandeira_do_Distrito_Federal_%28Brasil%29.svg/40px-Bandeira_do_Distrito_Federal_%28Brasil%29.svg.png 2x" data-file-width="1500" data-file-height="1050">&nbsp;<a href="/wiki/Distrito_Federal_(Brasil)" title="Distrito Federal (Brasil)">Distrito Federal</a>
+</td>
+<td align="right">2&nbsp;570&nbsp;160
+</td></tr>
+<tr>
+<td>5
+</td>
+<td><b><a href="/wiki/Fortaleza" title="Fortaleza">Fortaleza</a></b>
+</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Bandeira_do_Cear%C3%A1.svg/20px-Bandeira_do_Cear%C3%A1.svg.png" decoding="async" width="20" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Bandeira_do_Cear%C3%A1.svg/30px-Bandeira_do_Cear%C3%A1.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Bandeira_do_Cear%C3%A1.svg/40px-Bandeira_do_Cear%C3%A1.svg.png 2x" data-file-width="720" data-file-height="504">&nbsp;<a href="/wiki/Cear%C3%A1" title="Ceará">Ceará</a>
+</td>
+<td align="right">2&nbsp;452&nbsp;185
+</td></tr>
+<tr>
+<td>6
+</td>
+<td><b><a href="/wiki/Belo_Horizonte" title="Belo Horizonte">Belo Horizonte</a></b>
+</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bandeira_de_Minas_Gerais.svg/20px-Bandeira_de_Minas_Gerais.svg.png" decoding="async" width="20" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bandeira_de_Minas_Gerais.svg/30px-Bandeira_de_Minas_Gerais.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bandeira_de_Minas_Gerais.svg/40px-Bandeira_de_Minas_Gerais.svg.png 2x" data-file-width="600" data-file-height="420">&nbsp;<a href="/wiki/Minas_Gerais" title="Minas Gerais">Minas Gerais</a>
+</td>
+<td align="right">2&nbsp;375&nbsp;151
+</td></tr>
+<tr>
+<td>7
+</td>
+<td><b><a href="/wiki/Manaus" title="Manaus">Manaus</a></b>
+</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Bandeira_do_Amazonas.svg/20px-Bandeira_do_Amazonas.svg.png" decoding="async" width="20" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Bandeira_do_Amazonas.svg/30px-Bandeira_do_Amazonas.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Bandeira_do_Amazonas.svg/40px-Bandeira_do_Amazonas.svg.png 2x" data-file-width="700" data-file-height="500">&nbsp;<a href="/wiki/Amazonas" title="Amazonas">Amazonas</a>
+</td>
+<td align="right">1&nbsp;802&nbsp;014
+</td></tr>
+<tr>
+<td>8
+</td>
+<td><b><a href="/wiki/Curitiba" title="Curitiba">Curitiba</a></b>
+</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Bandeira_do_Paran%C3%A1.svg/20px-Bandeira_do_Paran%C3%A1.svg.png" decoding="async" width="20" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Bandeira_do_Paran%C3%A1.svg/30px-Bandeira_do_Paran%C3%A1.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/93/Bandeira_do_Paran%C3%A1.svg/40px-Bandeira_do_Paran%C3%A1.svg.png 2x" data-file-width="621" data-file-height="434">&nbsp;<a href="/wiki/Paran%C3%A1" title="Paraná">Paraná</a>
+</td>
+<td align="right">1&nbsp;751&nbsp;907
+</td></tr>
+<tr>
+<td>9
+</td>
+<td><b><a href="/wiki/Recife" title="Recife">Recife</a></b>
+</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Bandeira_de_Pernambuco.svg/20px-Bandeira_de_Pernambuco.svg.png" decoding="async" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Bandeira_de_Pernambuco.svg/30px-Bandeira_de_Pernambuco.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/59/Bandeira_de_Pernambuco.svg/40px-Bandeira_de_Pernambuco.svg.png 2x" data-file-width="540" data-file-height="360">&nbsp;<a href="/wiki/Pernambuco" title="Pernambuco">Pernambuco</a>
+</td>
+<td align="right">1&nbsp;537&nbsp;704
+</td></tr>
+<tr>
+<td>10
+</td>
+<td><b><a href="/wiki/Porto_Alegre" title="Porto Alegre">Porto Alegre</a></b>
+</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bandeira_do_Rio_Grande_do_Sul.svg/20px-Bandeira_do_Rio_Grande_do_Sul.svg.png" decoding="async" width="20" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bandeira_do_Rio_Grande_do_Sul.svg/30px-Bandeira_do_Rio_Grande_do_Sul.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bandeira_do_Rio_Grande_do_Sul.svg/40px-Bandeira_do_Rio_Grande_do_Sul.svg.png 2x" data-file-width="1000" data-file-height="700">&nbsp;<a href="/wiki/Rio_Grande_do_Sul" title="Rio Grande do Sul">Rio Grande do Sul</a>
+</td>
+<td align="right">1&nbsp;409&nbsp;351
+</td></tr>
+<tr>
+<td>11
+</td>
+<td><b><a href="/wiki/Bel%C3%A9m_(Par%C3%A1)" title="Belém (Pará)">Belém</a></b>
+</td>
+<td><a href="/wiki/Par%C3%A1" title="Pará"><img alt="Pará" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/02/Bandeira_do_Par%C3%A1.svg/20px-Bandeira_do_Par%C3%A1.svg.png" decoding="async" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/02/Bandeira_do_Par%C3%A1.svg/30px-Bandeira_do_Par%C3%A1.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/02/Bandeira_do_Par%C3%A1.svg/40px-Bandeira_do_Par%C3%A1.svg.png 2x" data-file-width="900" data-file-height="600"></a>&nbsp;<a href="/wiki/Par%C3%A1" title="Pará">Pará</a>
+</td>
+<td align="right">1&nbsp;393&nbsp;399
+</td></tr>
+<tr>
+<td>12
+</td>
+<td><b><a href="/wiki/Goi%C3%A2nia" title="Goiânia">Goiânia</a></b>
+</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_Goi%C3%A1s.svg/20px-Flag_of_Goi%C3%A1s.svg.png" decoding="async" width="20" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_Goi%C3%A1s.svg/30px-Flag_of_Goi%C3%A1s.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_Goi%C3%A1s.svg/40px-Flag_of_Goi%C3%A1s.svg.png 2x" data-file-width="1500" data-file-height="1050">&nbsp;<a href="/wiki/Goi%C3%A1s" title="Goiás">Goiás</a>
+</td>
+<td align="right">1&nbsp;302&nbsp;001
+</td></tr>
+<tr>
+<td>13
+</td>
+<td><a href="/wiki/Guarulhos" title="Guarulhos">Guarulhos</a>
+</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg/22px-Bandeira_do_estado_de_S%C3%A3o_Paulo.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg/33px-Bandeira_do_estado_de_S%C3%A3o_Paulo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg/44px-Bandeira_do_estado_de_S%C3%A3o_Paulo.svg.png 2x" data-file-width="780" data-file-height="520">&nbsp;<a href="/wiki/S%C3%A3o_Paulo_(estado)" title="São Paulo (estado)">São Paulo</a>
+</td>
+<td align="right">1&nbsp;221&nbsp;979
+</td></tr>
+<tr>
+<td>14
+</td>
+<td><a href="/wiki/Campinas" title="Campinas">Campinas</a>
+</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg/22px-Bandeira_do_estado_de_S%C3%A3o_Paulo.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg/33px-Bandeira_do_estado_de_S%C3%A3o_Paulo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg/44px-Bandeira_do_estado_de_S%C3%A3o_Paulo.svg.png 2x" data-file-width="780" data-file-height="520">&nbsp;<a href="/wiki/S%C3%A3o_Paulo_(estado)" title="São Paulo (estado)">São Paulo</a>
+</td>
+<td align="right">1&nbsp;080&nbsp;113
+</td></tr>
+<tr>
+<td>15
+</td>
+<td><b><a href="/wiki/S%C3%A3o_Lu%C3%ADs_(Maranh%C3%A3o)" title="São Luís (Maranhão)">São Luís</a></b>
+</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Bandeira_do_Maranh%C3%A3o.svg/20px-Bandeira_do_Maranh%C3%A3o.svg.png" decoding="async" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Bandeira_do_Maranh%C3%A3o.svg/30px-Bandeira_do_Maranh%C3%A3o.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Bandeira_do_Maranh%C3%A3o.svg/40px-Bandeira_do_Maranh%C3%A3o.svg.png 2x" data-file-width="1350" data-file-height="900">&nbsp;<a href="/wiki/Maranh%C3%A3o" title="Maranhão">Maranhão</a>
+</td>
+<td align="right">1&nbsp;014&nbsp;837
+</td></tr>
+<tr>
+<td>16
+</td>
+<td><a href="/wiki/S%C3%A3o_Gon%C3%A7alo_(Rio_de_Janeiro)" title="São Gonçalo (Rio de Janeiro)">São Gonçalo</a>
+</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Bandeira_do_estado_do_Rio_de_Janeiro.svg/20px-Bandeira_do_estado_do_Rio_de_Janeiro.svg.png" decoding="async" width="20" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Bandeira_do_estado_do_Rio_de_Janeiro.svg/30px-Bandeira_do_estado_do_Rio_de_Janeiro.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Bandeira_do_estado_do_Rio_de_Janeiro.svg/40px-Bandeira_do_estado_do_Rio_de_Janeiro.svg.png 2x" data-file-width="1000" data-file-height="700">&nbsp;<a href="/wiki/Rio_de_Janeiro_(estado)" title="Rio de Janeiro (estado)">Rio de Janeiro</a>
+</td>
+<td align="right">999&nbsp;728
+</td></tr>
+<tr>
+<td>17
+</td>
+<td><b><a href="/wiki/Macei%C3%B3" title="Maceió">Maceió</a></b>
+</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Bandeira_de_Alagoas.svg/20px-Bandeira_de_Alagoas.svg.png" decoding="async" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Bandeira_de_Alagoas.svg/30px-Bandeira_de_Alagoas.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/Bandeira_de_Alagoas.svg/40px-Bandeira_de_Alagoas.svg.png 2x" data-file-width="600" data-file-height="400">&nbsp;<a href="/wiki/Alagoas" title="Alagoas">Alagoas</a>
+</td>
+<td align="right">932&nbsp;748
+</td></tr>
+<tr>
+<td>18
+</td>
+<td><a href="/wiki/Duque_de_Caxias_(Rio_de_Janeiro)" title="Duque de Caxias (Rio de Janeiro)">Duque de Caxias</a>
+</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Bandeira_do_estado_do_Rio_de_Janeiro.svg/20px-Bandeira_do_estado_do_Rio_de_Janeiro.svg.png" decoding="async" width="20" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Bandeira_do_estado_do_Rio_de_Janeiro.svg/30px-Bandeira_do_estado_do_Rio_de_Janeiro.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Bandeira_do_estado_do_Rio_de_Janeiro.svg/40px-Bandeira_do_estado_do_Rio_de_Janeiro.svg.png 2x" data-file-width="1000" data-file-height="700">&nbsp;<a href="/wiki/Rio_de_Janeiro_(estado)" title="Rio de Janeiro (estado)">Rio de Janeiro</a>
+</td>
+<td align="right">855&nbsp;048
+</td></tr>
+<tr>
+<td>19
+</td>
+<td><b><a href="/wiki/Teresina" title="Teresina">Teresina</a></b>
+</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Bandeira_do_Piau%C3%AD.svg/20px-Bandeira_do_Piau%C3%AD.svg.png" decoding="async" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Bandeira_do_Piau%C3%AD.svg/30px-Bandeira_do_Piau%C3%AD.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/33/Bandeira_do_Piau%C3%AD.svg/40px-Bandeira_do_Piau%C3%AD.svg.png 2x" data-file-width="1950" data-file-height="1300">&nbsp;<a href="/wiki/Piau%C3%AD" title="Piauí">Piauí</a>
+</td>
+<td align="right">814&nbsp;230
+</td></tr>
+<tr>
+<td>20
+</td>
+<td><b><a href="/wiki/Natal_(Rio_Grande_do_Norte)" title="Natal (Rio Grande do Norte)">Natal</a></b>
+</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/30/Bandeira_do_Rio_Grande_do_Norte.svg/20px-Bandeira_do_Rio_Grande_do_Norte.svg.png" decoding="async" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/30/Bandeira_do_Rio_Grande_do_Norte.svg/30px-Bandeira_do_Rio_Grande_do_Norte.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/30/Bandeira_do_Rio_Grande_do_Norte.svg/40px-Bandeira_do_Rio_Grande_do_Norte.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;<a href="/wiki/Rio_Grande_do_Norte" title="Rio Grande do Norte">Rio Grande do Norte</a>
+</td>
+<td align="right">803&nbsp;739
+</td></tr>
+<tr>
+<td>21
+</td>
+<td><a href="/wiki/Nova_Igua%C3%A7u" title="Nova Iguaçu">Nova Iguaçu</a>
+</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Bandeira_do_estado_do_Rio_de_Janeiro.svg/20px-Bandeira_do_estado_do_Rio_de_Janeiro.svg.png" decoding="async" width="20" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Bandeira_do_estado_do_Rio_de_Janeiro.svg/30px-Bandeira_do_estado_do_Rio_de_Janeiro.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Bandeira_do_estado_do_Rio_de_Janeiro.svg/40px-Bandeira_do_estado_do_Rio_de_Janeiro.svg.png 2x" data-file-width="1000" data-file-height="700">&nbsp;<a href="/wiki/Rio_de_Janeiro_(estado)" title="Rio de Janeiro (estado)">Rio de Janeiro</a>
+</td>
+<td align="right">796&nbsp;257
+</td></tr>
+<tr>
+<td>22
+</td>
+<td><b><a href="/wiki/Campo_Grande_(Mato_Grosso_do_Sul)" title="Campo Grande (Mato Grosso do Sul)">Campo Grande</a></b>
+</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bandeira_de_Mato_Grosso_do_Sul.svg/20px-Bandeira_de_Mato_Grosso_do_Sul.svg.png" decoding="async" width="20" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bandeira_de_Mato_Grosso_do_Sul.svg/30px-Bandeira_de_Mato_Grosso_do_Sul.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/64/Bandeira_de_Mato_Grosso_do_Sul.svg/40px-Bandeira_de_Mato_Grosso_do_Sul.svg.png 2x" data-file-width="1000" data-file-height="700">&nbsp;<a href="/wiki/Mato_Grosso_do_Sul" title="Mato Grosso do Sul">Mato Grosso do Sul</a>
+</td>
+<td align="right">786&nbsp;797
+</td></tr>
+<tr>
+<td>23
+</td>
+<td><a href="/wiki/S%C3%A3o_Bernardo_do_Campo" title="São Bernardo do Campo">São Bernardo do Campo</a>
+</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg/22px-Bandeira_do_estado_de_S%C3%A3o_Paulo.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg/33px-Bandeira_do_estado_de_S%C3%A3o_Paulo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg/44px-Bandeira_do_estado_de_S%C3%A3o_Paulo.svg.png 2x" data-file-width="780" data-file-height="520">&nbsp;<a href="/wiki/S%C3%A3o_Paulo_(estado)" title="São Paulo (estado)">São Paulo</a>
+</td>
+<td align="right">765&nbsp;463
+</td></tr>
+<tr>
+<td>24
+</td>
+<td><b><a href="/wiki/Jo%C3%A3o_Pessoa" title="João Pessoa">João Pessoa</a></b>
+</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Bandeira_da_Para%C3%ADba.svg/20px-Bandeira_da_Para%C3%ADba.svg.png" decoding="async" width="20" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Bandeira_da_Para%C3%ADba.svg/30px-Bandeira_da_Para%C3%ADba.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Bandeira_da_Para%C3%ADba.svg/40px-Bandeira_da_Para%C3%ADba.svg.png 2x" data-file-width="2000" data-file-height="1400">&nbsp;<a href="/wiki/Para%C3%ADba" title="Paraíba">Paraíba</a>
+</td>
+<td align="right">723&nbsp;515
+</td></tr>
+<tr>
+<td>25
+</td>
+<td><a href="/wiki/Santo_Andr%C3%A9_(S%C3%A3o_Paulo)" title="Santo André (São Paulo)">Santo André</a>
+</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg/22px-Bandeira_do_estado_de_S%C3%A3o_Paulo.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg/33px-Bandeira_do_estado_de_S%C3%A3o_Paulo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg/44px-Bandeira_do_estado_de_S%C3%A3o_Paulo.svg.png 2x" data-file-width="780" data-file-height="520">&nbsp;<a href="/wiki/S%C3%A3o_Paulo_(estado)" title="São Paulo (estado)">São Paulo</a>
+</td>
+<td align="right">676&nbsp;407
+</td></tr>
+<tr>
+<td>26
+</td>
+<td><a href="/wiki/Osasco" title="Osasco">Osasco</a>
+</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg/22px-Bandeira_do_estado_de_S%C3%A3o_Paulo.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg/33px-Bandeira_do_estado_de_S%C3%A3o_Paulo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg/44px-Bandeira_do_estado_de_S%C3%A3o_Paulo.svg.png 2x" data-file-width="780" data-file-height="520">&nbsp;<a href="/wiki/S%C3%A3o_Paulo_(estado)" title="São Paulo (estado)">São Paulo</a>
+</td>
+<td align="right">666&nbsp;740
+</td></tr>
+<tr>
+<td>27
+</td>
+<td><a href="/wiki/Jaboat%C3%A3o_dos_Guararapes" title="Jaboatão dos Guararapes">Jaboatão dos Guararapes</a>
+</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Bandeira_de_Pernambuco.svg/20px-Bandeira_de_Pernambuco.svg.png" decoding="async" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Bandeira_de_Pernambuco.svg/30px-Bandeira_de_Pernambuco.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/59/Bandeira_de_Pernambuco.svg/40px-Bandeira_de_Pernambuco.svg.png 2x" data-file-width="540" data-file-height="360">&nbsp;<a href="/wiki/Pernambuco" title="Pernambuco">Pernambuco</a>
+</td>
+<td align="right">644&nbsp;620
+</td></tr>
+<tr>
+<td>28
+</td>
+<td><a href="/wiki/S%C3%A3o_Jos%C3%A9_dos_Campos" title="São José dos Campos">São José dos Campos</a>
+</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg/22px-Bandeira_do_estado_de_S%C3%A3o_Paulo.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg/33px-Bandeira_do_estado_de_S%C3%A3o_Paulo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg/44px-Bandeira_do_estado_de_S%C3%A3o_Paulo.svg.png 2x" data-file-width="780" data-file-height="520">&nbsp;<a href="/wiki/S%C3%A3o_Paulo_(estado)" title="São Paulo (estado)">São Paulo</a>
+</td>
+<td align="right">629&nbsp;921
+</td></tr>
+<tr>
+<td>29
+</td>
+<td><a href="/wiki/Ribeir%C3%A3o_Preto" title="Ribeirão Preto">Ribeirão Preto</a>
+</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg/22px-Bandeira_do_estado_de_S%C3%A3o_Paulo.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg/33px-Bandeira_do_estado_de_S%C3%A3o_Paulo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg/44px-Bandeira_do_estado_de_S%C3%A3o_Paulo.svg.png 2x" data-file-width="780" data-file-height="520">&nbsp;<a href="/wiki/S%C3%A3o_Paulo_(estado)" title="São Paulo (estado)">São Paulo</a>
+</td>
+<td align="right">604&nbsp;682
+</td></tr>
+<tr>
+<td>30
+</td>
+<td><a href="/wiki/Uberl%C3%A2ndia" title="Uberlândia">Uberlândia</a>
+</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bandeira_de_Minas_Gerais.svg/20px-Bandeira_de_Minas_Gerais.svg.png" decoding="async" width="20" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bandeira_de_Minas_Gerais.svg/30px-Bandeira_de_Minas_Gerais.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bandeira_de_Minas_Gerais.svg/40px-Bandeira_de_Minas_Gerais.svg.png 2x" data-file-width="600" data-file-height="420">&nbsp;<a href="/wiki/Minas_Gerais" title="Minas Gerais">Minas Gerais</a>
+</td>
+<td align="right">604&nbsp;013
+</td></tr>
+<tr>
+<td>31
+</td>
+<td><a href="/wiki/Contagem" title="Contagem">Contagem</a>
+</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bandeira_de_Minas_Gerais.svg/20px-Bandeira_de_Minas_Gerais.svg.png" decoding="async" width="20" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bandeira_de_Minas_Gerais.svg/30px-Bandeira_de_Minas_Gerais.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bandeira_de_Minas_Gerais.svg/40px-Bandeira_de_Minas_Gerais.svg.png 2x" data-file-width="600" data-file-height="420">&nbsp;<a href="/wiki/Minas_Gerais" title="Minas Gerais">Minas Gerais</a>
+</td>
+<td align="right">603&nbsp;442
+</td></tr>
+<tr>
+<td>32
+</td>
+<td><a href="/wiki/Sorocaba" title="Sorocaba">Sorocaba</a>
+</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg/22px-Bandeira_do_estado_de_S%C3%A3o_Paulo.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg/33px-Bandeira_do_estado_de_S%C3%A3o_Paulo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg/44px-Bandeira_do_estado_de_S%C3%A3o_Paulo.svg.png 2x" data-file-width="780" data-file-height="520">&nbsp;<a href="/wiki/S%C3%A3o_Paulo_(estado)" title="São Paulo (estado)">São Paulo</a>
+</td>
+<td align="right">586&nbsp;625
+</td></tr>
+<tr>
+<td>33
+</td>
+<td><b><a href="/wiki/Aracaju" title="Aracaju">Aracaju</a></b>
+</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Bandeira_de_Sergipe.svg/20px-Bandeira_de_Sergipe.svg.png" decoding="async" width="20" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Bandeira_de_Sergipe.svg/30px-Bandeira_de_Sergipe.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/be/Bandeira_de_Sergipe.svg/40px-Bandeira_de_Sergipe.svg.png 2x" data-file-width="1000" data-file-height="700">&nbsp;<a href="/wiki/Sergipe" title="Sergipe">Sergipe</a>
+</td>
+<td align="right">571&nbsp;149
+</td></tr>
+<tr>
+<td>34
+</td>
+<td><a href="/wiki/Feira_de_Santana" title="Feira de Santana">Feira de Santana</a>
+</td>
+<td><a href="/wiki/Bahia" title="Bahia"><img alt="Bahia" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Bandeira_da_Bahia.svg/20px-Bandeira_da_Bahia.svg.png" decoding="async" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Bandeira_da_Bahia.svg/30px-Bandeira_da_Bahia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/28/Bandeira_da_Bahia.svg/40px-Bandeira_da_Bahia.svg.png 2x" data-file-width="1500" data-file-height="1000"></a>&nbsp;<a href="/wiki/Bahia" title="Bahia">Bahia</a>
+</td>
+<td align="right">556&nbsp;642
+</td></tr>
+<tr>
+<td>35
+</td>
+<td><b><a href="/wiki/Cuiab%C3%A1" title="Cuiabá">Cuiabá</a></b>
+</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Bandeira_de_Mato_Grosso.svg/20px-Bandeira_de_Mato_Grosso.svg.png" decoding="async" width="20" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Bandeira_de_Mato_Grosso.svg/30px-Bandeira_de_Mato_Grosso.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Bandeira_de_Mato_Grosso.svg/40px-Bandeira_de_Mato_Grosso.svg.png 2x" data-file-width="2000" data-file-height="1400">&nbsp;<a href="/wiki/Mato_Grosso" title="Mato Grosso">Mato Grosso</a>
+</td>
+<td align="right">551&nbsp;098
+</td></tr>
+<tr>
+<td>36
+</td>
+<td><a href="/wiki/Juiz_de_Fora" title="Juiz de Fora">Juiz de Fora</a>
+</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bandeira_de_Minas_Gerais.svg/20px-Bandeira_de_Minas_Gerais.svg.png" decoding="async" width="20" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bandeira_de_Minas_Gerais.svg/30px-Bandeira_de_Minas_Gerais.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bandeira_de_Minas_Gerais.svg/40px-Bandeira_de_Minas_Gerais.svg.png 2x" data-file-width="600" data-file-height="420">&nbsp;<a href="/wiki/Minas_Gerais" title="Minas Gerais">Minas Gerais</a>
+</td>
+<td align="right">516&nbsp;247
+</td></tr>
+<tr>
+<td>37
+</td>
+<td><a href="/wiki/Joinville" title="Joinville">Joinville</a>
+</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Bandeira_de_Santa_Catarina.svg/20px-Bandeira_de_Santa_Catarina.svg.png" decoding="async" width="20" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Bandeira_de_Santa_Catarina.svg/30px-Bandeira_de_Santa_Catarina.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Bandeira_de_Santa_Catarina.svg/40px-Bandeira_de_Santa_Catarina.svg.png 2x" data-file-width="836" data-file-height="608">&nbsp;<a href="/wiki/Santa_Catarina" title="Santa Catarina">Santa Catarina</a>
+</td>
+<td align="right">515&nbsp;288
+</td></tr>
+<tr>
+<td>38
+</td>
+<td><a href="/wiki/Londrina" title="Londrina">Londrina</a>
+</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Bandeira_do_Paran%C3%A1.svg/20px-Bandeira_do_Paran%C3%A1.svg.png" decoding="async" width="20" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Bandeira_do_Paran%C3%A1.svg/30px-Bandeira_do_Paran%C3%A1.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/93/Bandeira_do_Paran%C3%A1.svg/40px-Bandeira_do_Paran%C3%A1.svg.png 2x" data-file-width="621" data-file-height="434">&nbsp;<a href="/wiki/Paran%C3%A1" title="Paraná">Paraná</a>
+</td>
+<td align="right">506&nbsp;701
+</td></tr>
+<tr>
+<td>39
+</td>
+<td><a href="/wiki/Niter%C3%B3i" title="Niterói">Niterói</a>
+</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Bandeira_do_estado_do_Rio_de_Janeiro.svg/20px-Bandeira_do_estado_do_Rio_de_Janeiro.svg.png" decoding="async" width="20" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Bandeira_do_estado_do_Rio_de_Janeiro.svg/30px-Bandeira_do_estado_do_Rio_de_Janeiro.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Bandeira_do_estado_do_Rio_de_Janeiro.svg/40px-Bandeira_do_estado_do_Rio_de_Janeiro.svg.png 2x" data-file-width="1000" data-file-height="700">&nbsp;<a href="/wiki/Rio_de_Janeiro_(estado)" title="Rio de Janeiro (estado)">Rio de Janeiro</a>
+</td>
+<td align="right">487&nbsp;562
+</td></tr>
+<tr>
+<td>40
+</td>
+<td><a href="/wiki/Ananindeua" title="Ananindeua">Ananindeua</a>
+</td>
+<td><a href="/wiki/Par%C3%A1" title="Pará"><img alt="Pará" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/02/Bandeira_do_Par%C3%A1.svg/20px-Bandeira_do_Par%C3%A1.svg.png" decoding="async" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/02/Bandeira_do_Par%C3%A1.svg/30px-Bandeira_do_Par%C3%A1.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/02/Bandeira_do_Par%C3%A1.svg/40px-Bandeira_do_Par%C3%A1.svg.png 2x" data-file-width="900" data-file-height="600"></a>&nbsp;<a href="/wiki/Par%C3%A1" title="Pará">Pará</a>
+</td>
+<td align="right">471&nbsp;980
+</td></tr>
+<tr>
+<td>41
+</td>
+<td><a href="/wiki/Belford_Roxo" title="Belford Roxo">Belford Roxo</a>
+</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Bandeira_do_estado_do_Rio_de_Janeiro.svg/20px-Bandeira_do_estado_do_Rio_de_Janeiro.svg.png" decoding="async" width="20" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Bandeira_do_estado_do_Rio_de_Janeiro.svg/30px-Bandeira_do_estado_do_Rio_de_Janeiro.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Bandeira_do_estado_do_Rio_de_Janeiro.svg/40px-Bandeira_do_estado_do_Rio_de_Janeiro.svg.png 2x" data-file-width="1000" data-file-height="700">&nbsp;<a href="/wiki/Rio_de_Janeiro_(estado)" title="Rio de Janeiro (estado)">Rio de Janeiro</a>
+</td>
+<td align="right">469&nbsp;332
+</td></tr>
+<tr>
+<td>42
+</td>
+<td><a href="/wiki/Campos_dos_Goytacazes" title="Campos dos Goytacazes">Campos dos Goytacazes</a>
+</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Bandeira_do_estado_do_Rio_de_Janeiro.svg/20px-Bandeira_do_estado_do_Rio_de_Janeiro.svg.png" decoding="async" width="20" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Bandeira_do_estado_do_Rio_de_Janeiro.svg/30px-Bandeira_do_estado_do_Rio_de_Janeiro.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Bandeira_do_estado_do_Rio_de_Janeiro.svg/40px-Bandeira_do_estado_do_Rio_de_Janeiro.svg.png 2x" data-file-width="1000" data-file-height="700">&nbsp;<a href="/wiki/Rio_de_Janeiro_(estado)" title="Rio de Janeiro (estado)">Rio de Janeiro</a>
+</td>
+<td align="right">463&nbsp;731
+</td></tr>
+<tr>
+<td>43
+</td>
+<td><a href="/wiki/S%C3%A3o_Jo%C3%A3o_de_Meriti" title="São João de Meriti">São João de Meriti</a>
+</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Bandeira_do_estado_do_Rio_de_Janeiro.svg/20px-Bandeira_do_estado_do_Rio_de_Janeiro.svg.png" decoding="async" width="20" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Bandeira_do_estado_do_Rio_de_Janeiro.svg/30px-Bandeira_do_estado_do_Rio_de_Janeiro.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Bandeira_do_estado_do_Rio_de_Janeiro.svg/40px-Bandeira_do_estado_do_Rio_de_Janeiro.svg.png 2x" data-file-width="1000" data-file-height="700">&nbsp;<a href="/wiki/Rio_de_Janeiro_(estado)" title="Rio de Janeiro (estado)">Rio de Janeiro</a>
+</td>
+<td align="right">458&nbsp;673
+</td></tr>
+<tr>
+<td>44
+</td>
+<td><a href="/wiki/Aparecida_de_Goi%C3%A2nia" title="Aparecida de Goiânia">Aparecida de Goiânia</a>
+</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_Goi%C3%A1s.svg/20px-Flag_of_Goi%C3%A1s.svg.png" decoding="async" width="20" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_Goi%C3%A1s.svg/30px-Flag_of_Goi%C3%A1s.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_Goi%C3%A1s.svg/40px-Flag_of_Goi%C3%A1s.svg.png 2x" data-file-width="1500" data-file-height="1050">&nbsp;<a href="/wiki/Goi%C3%A1s" title="Goiás">Goiás</a>
+</td>
+<td align="right">455&nbsp;657
+</td></tr>
+<tr>
+<td>45
+</td>
+<td><a href="/wiki/Caxias_do_Sul" title="Caxias do Sul">Caxias do Sul</a>
+</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bandeira_do_Rio_Grande_do_Sul.svg/20px-Bandeira_do_Rio_Grande_do_Sul.svg.png" decoding="async" width="20" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bandeira_do_Rio_Grande_do_Sul.svg/30px-Bandeira_do_Rio_Grande_do_Sul.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bandeira_do_Rio_Grande_do_Sul.svg/40px-Bandeira_do_Rio_Grande_do_Sul.svg.png 2x" data-file-width="1000" data-file-height="700">&nbsp;<a href="/wiki/Rio_Grande_do_Sul" title="Rio Grande do Sul">Rio Grande do Sul</a>
+</td>
+<td align="right">435&nbsp;564
+</td></tr>
+<tr>
+<td>46
+</td>
+<td><b><a href="/wiki/Porto_Velho" title="Porto Velho">Porto Velho</a></b>
+</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Bandeira_de_Rond%C3%B4nia.svg/20px-Bandeira_de_Rond%C3%B4nia.svg.png" decoding="async" width="20" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Bandeira_de_Rond%C3%B4nia.svg/30px-Bandeira_de_Rond%C3%B4nia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Bandeira_de_Rond%C3%B4nia.svg/40px-Bandeira_de_Rond%C3%B4nia.svg.png 2x" data-file-width="2000" data-file-height="1400">&nbsp;<a href="/wiki/Rond%C3%B4nia" title="Rondônia">Rondônia</a>
+</td>
+<td align="right">428&nbsp;527
+</td></tr>
+<tr>
+<td>47
+</td>
+<td><b><a href="/wiki/Florian%C3%B3polis" title="Florianópolis">Florianópolis</a></b>
+</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Bandeira_de_Santa_Catarina.svg/20px-Bandeira_de_Santa_Catarina.svg.png" decoding="async" width="20" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Bandeira_de_Santa_Catarina.svg/30px-Bandeira_de_Santa_Catarina.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Bandeira_de_Santa_Catarina.svg/40px-Bandeira_de_Santa_Catarina.svg.png 2x" data-file-width="836" data-file-height="608">&nbsp;<a href="/wiki/Santa_Catarina" title="Santa Catarina">Santa Catarina</a>
+</td>
+<td align="right">421&nbsp;240
+</td></tr>
+<tr>
+<td>48
+</td>
+<td><a href="/wiki/Santos" title="Santos">Santos</a>
+</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg/22px-Bandeira_do_estado_de_S%C3%A3o_Paulo.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg/33px-Bandeira_do_estado_de_S%C3%A3o_Paulo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg/44px-Bandeira_do_estado_de_S%C3%A3o_Paulo.svg.png 2x" data-file-width="780" data-file-height="520">&nbsp;<a href="/wiki/S%C3%A3o_Paulo_(estado)" title="São Paulo (estado)">São Paulo</a>
+</td>
+<td align="right">419&nbsp;400
+</td></tr>
+<tr>
+<td>49
+</td>
+<td><a href="/wiki/Mau%C3%A1" title="Mauá">Mauá</a>
+</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg/22px-Bandeira_do_estado_de_S%C3%A3o_Paulo.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg/33px-Bandeira_do_estado_de_S%C3%A3o_Paulo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg/44px-Bandeira_do_estado_de_S%C3%A3o_Paulo.svg.png 2x" data-file-width="780" data-file-height="520">&nbsp;<a href="/wiki/S%C3%A3o_Paulo_(estado)" title="São Paulo (estado)">São Paulo</a>
+</td>
+<td align="right">417&nbsp;064
+</td></tr>
+<tr>
+<td>50
+</td>
+<td><a href="/wiki/Vila_Velha" title="Vila Velha">Vila Velha</a>
+</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/Bandeira_do_Esp%C3%ADrito_Santo.svg/20px-Bandeira_do_Esp%C3%ADrito_Santo.svg.png" decoding="async" width="20" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/Bandeira_do_Esp%C3%ADrito_Santo.svg/30px-Bandeira_do_Esp%C3%ADrito_Santo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/43/Bandeira_do_Esp%C3%ADrito_Santo.svg/40px-Bandeira_do_Esp%C3%ADrito_Santo.svg.png 2x" data-file-width="2000" data-file-height="1400">&nbsp;<a href="/wiki/Esp%C3%ADrito_Santo_(estado)" title="Espírito Santo (estado)">Espírito Santo</a>
+</td>
+<td align="right">414&nbsp;586
+</td></tr>
+<tr>
+<td>51
+</td>
+<td><a href="/wiki/Serra_(Esp%C3%ADrito_Santo)" title="Serra (Espírito Santo)">Serra</a>
+</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/Bandeira_do_Esp%C3%ADrito_Santo.svg/20px-Bandeira_do_Esp%C3%ADrito_Santo.svg.png" decoding="async" width="20" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/Bandeira_do_Esp%C3%ADrito_Santo.svg/30px-Bandeira_do_Esp%C3%ADrito_Santo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/43/Bandeira_do_Esp%C3%ADrito_Santo.svg/40px-Bandeira_do_Esp%C3%ADrito_Santo.svg.png 2x" data-file-width="2000" data-file-height="1400">&nbsp;<a href="/wiki/Esp%C3%ADrito_Santo_(estado)" title="Espírito Santo (estado)">Espírito Santo</a>
+</td>
+<td align="right">409&nbsp;267
+</td></tr>
+<tr>
+<td>52
+</td>
+<td><a href="/wiki/S%C3%A3o_Jos%C3%A9_do_Rio_Preto" title="São José do Rio Preto">São José do Rio Preto</a>
+</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg/22px-Bandeira_do_estado_de_S%C3%A3o_Paulo.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg/33px-Bandeira_do_estado_de_S%C3%A3o_Paulo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg/44px-Bandeira_do_estado_de_S%C3%A3o_Paulo.svg.png 2x" data-file-width="780" data-file-height="520">&nbsp;<a href="/wiki/S%C3%A3o_Paulo_(estado)" title="São Paulo (estado)">São Paulo</a>
+</td>
+<td align="right">408&nbsp;258
+</td></tr>
+<tr>
+<td>53
+</td>
+<td><b><a href="/wiki/Macap%C3%A1" title="Macapá">Macapá</a></b>
+</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Bandeira_do_Amap%C3%A1.svg/20px-Bandeira_do_Amap%C3%A1.svg.png" decoding="async" width="20" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Bandeira_do_Amap%C3%A1.svg/30px-Bandeira_do_Amap%C3%A1.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Bandeira_do_Amap%C3%A1.svg/40px-Bandeira_do_Amap%C3%A1.svg.png 2x" data-file-width="1000" data-file-height="700">&nbsp;<a href="/wiki/Amap%C3%A1" title="Amapá">Amapá</a>
+</td>
+<td align="right">398&nbsp;204
+</td></tr>
+<tr>
+<td>54
+</td>
+<td><a href="/wiki/Mogi_das_Cruzes" title="Mogi das Cruzes">Mogi das Cruzes</a>
+</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg/22px-Bandeira_do_estado_de_S%C3%A3o_Paulo.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg/33px-Bandeira_do_estado_de_S%C3%A3o_Paulo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg/44px-Bandeira_do_estado_de_S%C3%A3o_Paulo.svg.png 2x" data-file-width="780" data-file-height="520">&nbsp;<a href="/wiki/S%C3%A3o_Paulo_(estado)" title="São Paulo (estado)">São Paulo</a>
+</td>
+<td align="right">387&nbsp;779
+</td></tr>
+<tr>
+<td>55
+</td>
+<td><a href="/wiki/Diadema" title="Diadema">Diadema</a>
+</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg/22px-Bandeira_do_estado_de_S%C3%A3o_Paulo.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg/33px-Bandeira_do_estado_de_S%C3%A3o_Paulo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg/44px-Bandeira_do_estado_de_S%C3%A3o_Paulo.svg.png 2x" data-file-width="780" data-file-height="520">&nbsp;<a href="/wiki/S%C3%A3o_Paulo_(estado)" title="São Paulo (estado)">São Paulo</a>
+</td>
+<td align="right">386&nbsp;089
+</td></tr>
+<tr>
+<td>56
+</td>
+<td><a href="/wiki/Campina_Grande" title="Campina Grande">Campina Grande</a>
+</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Bandeira_da_Para%C3%ADba.svg/20px-Bandeira_da_Para%C3%ADba.svg.png" decoding="async" width="20" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Bandeira_da_Para%C3%ADba.svg/30px-Bandeira_da_Para%C3%ADba.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Bandeira_da_Para%C3%ADba.svg/40px-Bandeira_da_Para%C3%ADba.svg.png 2x" data-file-width="2000" data-file-height="1400">&nbsp;<a href="/wiki/Para%C3%ADba" title="Paraíba">Paraíba</a>
+</td>
+<td align="right">385&nbsp;213
+</td></tr>
+<tr>
+<td>57
+</td>
+<td><a href="/wiki/Betim" title="Betim">Betim</a>
+</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bandeira_de_Minas_Gerais.svg/20px-Bandeira_de_Minas_Gerais.svg.png" decoding="async" width="20" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bandeira_de_Minas_Gerais.svg/30px-Bandeira_de_Minas_Gerais.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bandeira_de_Minas_Gerais.svg/40px-Bandeira_de_Minas_Gerais.svg.png 2x" data-file-width="600" data-file-height="420">&nbsp;<a href="/wiki/Minas_Gerais" title="Minas Gerais">Minas Gerais</a>
+</td>
+<td align="right">378&nbsp;089
+</td></tr>
+<tr>
+<td>58
+</td>
+<td><a href="/wiki/Olinda" title="Olinda">Olinda</a>
+</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Bandeira_de_Pernambuco.svg/20px-Bandeira_de_Pernambuco.svg.png" decoding="async" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Bandeira_de_Pernambuco.svg/30px-Bandeira_de_Pernambuco.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/59/Bandeira_de_Pernambuco.svg/40px-Bandeira_de_Pernambuco.svg.png 2x" data-file-width="540" data-file-height="360">&nbsp;<a href="/wiki/Pernambuco" title="Pernambuco">Pernambuco</a>
+</td>
+<td align="right">377&nbsp;779
+</td></tr>
+<tr>
+<td>59
+</td>
+<td><a href="/wiki/Jundia%C3%AD" title="Jundiaí">Jundiaí</a>
+</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg/22px-Bandeira_do_estado_de_S%C3%A3o_Paulo.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg/33px-Bandeira_do_estado_de_S%C3%A3o_Paulo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg/44px-Bandeira_do_estado_de_S%C3%A3o_Paulo.svg.png 2x" data-file-width="780" data-file-height="520">&nbsp;<a href="/wiki/S%C3%A3o_Paulo_(estado)" title="São Paulo (estado)">São Paulo</a>
+</td>
+<td align="right">370&nbsp;126
+</td></tr>
+<tr>
+<td>60
+</td>
+<td><a href="/wiki/Carapicu%C3%ADba" title="Carapicuíba">Carapicuíba</a>
+</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg/22px-Bandeira_do_estado_de_S%C3%A3o_Paulo.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg/33px-Bandeira_do_estado_de_S%C3%A3o_Paulo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg/44px-Bandeira_do_estado_de_S%C3%A3o_Paulo.svg.png 2x" data-file-width="780" data-file-height="520">&nbsp;<a href="/wiki/S%C3%A3o_Paulo_(estado)" title="São Paulo (estado)">São Paulo</a>
+</td>
+<td align="right">369&nbsp;584
+</td></tr>
+<tr>
+<td>61
+</td>
+<td><a href="/wiki/Piracicaba" title="Piracicaba">Piracicaba</a>
+</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg/22px-Bandeira_do_estado_de_S%C3%A3o_Paulo.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg/33px-Bandeira_do_estado_de_S%C3%A3o_Paulo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg/44px-Bandeira_do_estado_de_S%C3%A3o_Paulo.svg.png 2x" data-file-width="780" data-file-height="520">&nbsp;<a href="/wiki/S%C3%A3o_Paulo_(estado)" title="São Paulo (estado)">São Paulo</a>
+</td>
+<td align="right">364&nbsp;571
+</td></tr>
+<tr>
+<td>62
+</td>
+<td><a href="/wiki/Montes_Claros" title="Montes Claros">Montes Claros</a>
+</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bandeira_de_Minas_Gerais.svg/20px-Bandeira_de_Minas_Gerais.svg.png" decoding="async" width="20" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bandeira_de_Minas_Gerais.svg/30px-Bandeira_de_Minas_Gerais.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bandeira_de_Minas_Gerais.svg/40px-Bandeira_de_Minas_Gerais.svg.png 2x" data-file-width="600" data-file-height="420">&nbsp;<a href="/wiki/Minas_Gerais" title="Minas Gerais">Minas Gerais</a>
+</td>
+<td align="right">361&nbsp;915
+</td></tr>
+<tr>
+<td>63
+</td>
+<td><a href="/wiki/Maring%C3%A1" title="Maringá">Maringá</a>
+</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Bandeira_do_Paran%C3%A1.svg/20px-Bandeira_do_Paran%C3%A1.svg.png" decoding="async" width="20" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Bandeira_do_Paran%C3%A1.svg/30px-Bandeira_do_Paran%C3%A1.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/93/Bandeira_do_Paran%C3%A1.svg/40px-Bandeira_do_Paran%C3%A1.svg.png 2x" data-file-width="621" data-file-height="434">&nbsp;<a href="/wiki/Paran%C3%A1" title="Paraná">Paraná</a>
+</td>
+<td align="right">357&nbsp;077
+</td></tr>
+<tr>
+<td>64
+</td>
+<td><a href="/wiki/Cariacica" title="Cariacica">Cariacica</a>
+</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/Bandeira_do_Esp%C3%ADrito_Santo.svg/20px-Bandeira_do_Esp%C3%ADrito_Santo.svg.png" decoding="async" width="20" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/Bandeira_do_Esp%C3%ADrito_Santo.svg/30px-Bandeira_do_Esp%C3%ADrito_Santo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/43/Bandeira_do_Esp%C3%ADrito_Santo.svg/40px-Bandeira_do_Esp%C3%ADrito_Santo.svg.png 2x" data-file-width="2000" data-file-height="1400">&nbsp;<a href="/wiki/Esp%C3%ADrito_Santo_(estado)" title="Espírito Santo (estado)">Espírito Santo</a>
+</td>
+<td align="right">348&nbsp;738
+</td></tr>
+<tr>
+<td>65
+</td>
+<td><a href="/wiki/Bauru" title="Bauru">Bauru</a>
+</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg/22px-Bandeira_do_estado_de_S%C3%A3o_Paulo.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg/33px-Bandeira_do_estado_de_S%C3%A3o_Paulo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg/44px-Bandeira_do_estado_de_S%C3%A3o_Paulo.svg.png 2x" data-file-width="780" data-file-height="520">&nbsp;<a href="/wiki/S%C3%A3o_Paulo_(estado)" title="São Paulo (estado)">São Paulo</a>
+</td>
+<td align="right">343&nbsp;937
+</td></tr>
+<tr>
+<td>66
+</td>
+<td><b><a href="/wiki/Rio_Branco" title="Rio Branco">Rio Branco</a></b>
+</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Bandeira_do_Acre.svg/20px-Bandeira_do_Acre.svg.png" decoding="async" width="20" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Bandeira_do_Acre.svg/30px-Bandeira_do_Acre.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Bandeira_do_Acre.svg/40px-Bandeira_do_Acre.svg.png 2x" data-file-width="500" data-file-height="350">&nbsp;<a href="/wiki/Acre" title="Acre">Acre</a>
+</td>
+<td align="right">336&nbsp;038
+</td></tr>
+<tr>
+<td>67
+</td>
+<td><a href="/wiki/An%C3%A1polis" title="Anápolis">Anápolis</a>
+</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_Goi%C3%A1s.svg/20px-Flag_of_Goi%C3%A1s.svg.png" decoding="async" width="20" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_Goi%C3%A1s.svg/30px-Flag_of_Goi%C3%A1s.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_Goi%C3%A1s.svg/40px-Flag_of_Goi%C3%A1s.svg.png 2x" data-file-width="1500" data-file-height="1050">&nbsp;<a href="/wiki/Goi%C3%A1s" title="Goiás">Goiás</a>
+</td>
+<td align="right">334&nbsp;613
+</td></tr>
+<tr>
+<td>68
+</td>
+<td><a href="/wiki/S%C3%A3o_Vicente_(S%C3%A3o_Paulo)" title="São Vicente (São Paulo)">São Vicente</a>
+</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg/22px-Bandeira_do_estado_de_S%C3%A3o_Paulo.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg/33px-Bandeira_do_estado_de_S%C3%A3o_Paulo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg/44px-Bandeira_do_estado_de_S%C3%A3o_Paulo.svg.png 2x" data-file-width="780" data-file-height="520">&nbsp;<a href="/wiki/S%C3%A3o_Paulo_(estado)" title="São Paulo (estado)">São Paulo</a>
+</td>
+<td align="right">332&nbsp;445
+</td></tr>
+<tr>
+<td>69
+</td>
+<td><a href="/wiki/Pelotas" title="Pelotas">Pelotas</a>
+</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bandeira_do_Rio_Grande_do_Sul.svg/20px-Bandeira_do_Rio_Grande_do_Sul.svg.png" decoding="async" width="20" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bandeira_do_Rio_Grande_do_Sul.svg/30px-Bandeira_do_Rio_Grande_do_Sul.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bandeira_do_Rio_Grande_do_Sul.svg/40px-Bandeira_do_Rio_Grande_do_Sul.svg.png 2x" data-file-width="1000" data-file-height="700">&nbsp;<a href="/wiki/Rio_Grande_do_Sul" title="Rio Grande do Sul">Rio Grande do Sul</a>
+</td>
+<td align="right">328&nbsp;275
+</td></tr>
+<tr>
+<td>70
+</td>
+<td><b><a href="/wiki/Vit%C3%B3ria_(Esp%C3%ADrito_Santo)" title="Vitória (Espírito Santo)">Vitória</a></b>
+</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/Bandeira_do_Esp%C3%ADrito_Santo.svg/20px-Bandeira_do_Esp%C3%ADrito_Santo.svg.png" decoding="async" width="20" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/Bandeira_do_Esp%C3%ADrito_Santo.svg/30px-Bandeira_do_Esp%C3%ADrito_Santo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/43/Bandeira_do_Esp%C3%ADrito_Santo.svg/40px-Bandeira_do_Esp%C3%ADrito_Santo.svg.png 2x" data-file-width="2000" data-file-height="1400">&nbsp;<a href="/wiki/Esp%C3%ADrito_Santo_(estado)" title="Espírito Santo (estado)">Espírito Santo</a>
+</td>
+<td align="right">327&nbsp;801
+</td></tr>
+<tr>
+<td>71
+</td>
+<td><a href="/wiki/Caucaia" title="Caucaia">Caucaia</a>
+</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Bandeira_do_Cear%C3%A1.svg/20px-Bandeira_do_Cear%C3%A1.svg.png" decoding="async" width="20" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Bandeira_do_Cear%C3%A1.svg/30px-Bandeira_do_Cear%C3%A1.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Bandeira_do_Cear%C3%A1.svg/40px-Bandeira_do_Cear%C3%A1.svg.png 2x" data-file-width="720" data-file-height="504">&nbsp;<a href="/wiki/Cear%C3%A1" title="Ceará">Ceará</a>
+</td>
+<td align="right">325&nbsp;441
+</td></tr>
+<tr>
+<td>72
+</td>
+<td><a href="/wiki/Canoas" title="Canoas">Canoas</a>
+</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bandeira_do_Rio_Grande_do_Sul.svg/20px-Bandeira_do_Rio_Grande_do_Sul.svg.png" decoding="async" width="20" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bandeira_do_Rio_Grande_do_Sul.svg/30px-Bandeira_do_Rio_Grande_do_Sul.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bandeira_do_Rio_Grande_do_Sul.svg/40px-Bandeira_do_Rio_Grande_do_Sul.svg.png 2x" data-file-width="1000" data-file-height="700">&nbsp;<a href="/wiki/Rio_Grande_do_Sul" title="Rio Grande do Sul">Rio Grande do Sul</a>
+</td>
+<td align="right">323&nbsp;827
+</td></tr>
+<tr>
+<td>73
+</td>
+<td><a href="/wiki/Itaquaquecetuba" title="Itaquaquecetuba">Itaquaquecetuba</a>
+</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg/22px-Bandeira_do_estado_de_S%C3%A3o_Paulo.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg/33px-Bandeira_do_estado_de_S%C3%A3o_Paulo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg/44px-Bandeira_do_estado_de_S%C3%A3o_Paulo.svg.png 2x" data-file-width="780" data-file-height="520">&nbsp;<a href="/wiki/S%C3%A3o_Paulo_(estado)" title="São Paulo (estado)">São Paulo</a>
+</td>
+<td align="right">321&nbsp;770
+</td></tr>
+<tr>
+<td>74
+</td>
+<td><a href="/wiki/Franca" title="Franca">Franca</a>
+</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg/22px-Bandeira_do_estado_de_S%C3%A3o_Paulo.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg/33px-Bandeira_do_estado_de_S%C3%A3o_Paulo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg/44px-Bandeira_do_estado_de_S%C3%A3o_Paulo.svg.png 2x" data-file-width="780" data-file-height="520">&nbsp;<a href="/wiki/S%C3%A3o_Paulo_(estado)" title="São Paulo (estado)">São Paulo</a>
+</td>
+<td align="right">318&nbsp;640
+</td></tr>
+<tr>
+<td>75
+</td>
+<td><a href="/wiki/Caruaru" title="Caruaru">Caruaru</a>
+</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Bandeira_de_Pernambuco.svg/20px-Bandeira_de_Pernambuco.svg.png" decoding="async" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Bandeira_de_Pernambuco.svg/30px-Bandeira_de_Pernambuco.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/59/Bandeira_de_Pernambuco.svg/40px-Bandeira_de_Pernambuco.svg.png 2x" data-file-width="540" data-file-height="360">&nbsp;<a href="/wiki/Pernambuco" title="Pernambuco">Pernambuco</a>
+</td>
+<td align="right">314&nbsp;912
+</td></tr>
+<tr>
+<td>76
+</td>
+<td><a href="/wiki/Ponta_Grossa" title="Ponta Grossa">Ponta Grossa</a>
+</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Bandeira_do_Paran%C3%A1.svg/20px-Bandeira_do_Paran%C3%A1.svg.png" decoding="async" width="20" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Bandeira_do_Paran%C3%A1.svg/30px-Bandeira_do_Paran%C3%A1.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/93/Bandeira_do_Paran%C3%A1.svg/40px-Bandeira_do_Paran%C3%A1.svg.png 2x" data-file-width="621" data-file-height="434">&nbsp;<a href="/wiki/Paran%C3%A1" title="Paraná">Paraná</a>
+</td>
+<td align="right">311&nbsp;611
+</td></tr>
+<tr>
+<td>77
+</td>
+<td><a href="/wiki/Blumenau" title="Blumenau">Blumenau</a>
+</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Bandeira_de_Santa_Catarina.svg/20px-Bandeira_de_Santa_Catarina.svg.png" decoding="async" width="20" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Bandeira_de_Santa_Catarina.svg/30px-Bandeira_de_Santa_Catarina.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Bandeira_de_Santa_Catarina.svg/40px-Bandeira_de_Santa_Catarina.svg.png 2x" data-file-width="836" data-file-height="608">&nbsp;<a href="/wiki/Santa_Catarina" title="Santa Catarina">Santa Catarina</a>
+</td>
+<td align="right">309&nbsp;011
+</td></tr>
+<tr>
+<td>78
+</td>
+<td><a href="/wiki/Vit%C3%B3ria_da_Conquista" title="Vitória da Conquista">Vitória da Conquista</a>
+</td>
+<td><a href="/wiki/Bahia" title="Bahia"><img alt="Bahia" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Bandeira_da_Bahia.svg/20px-Bandeira_da_Bahia.svg.png" decoding="async" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Bandeira_da_Bahia.svg/30px-Bandeira_da_Bahia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/28/Bandeira_da_Bahia.svg/40px-Bandeira_da_Bahia.svg.png 2x" data-file-width="1500" data-file-height="1000"></a>&nbsp;<a href="/wiki/Bahia" title="Bahia">Bahia</a>
+</td>
+<td align="right">306&nbsp;866
+</td></tr>
+<tr>
+<td>79
+</td>
+<td><a href="/wiki/Paulista_(Pernambuco)" title="Paulista (Pernambuco)">Paulista</a>
+</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Bandeira_de_Pernambuco.svg/20px-Bandeira_de_Pernambuco.svg.png" decoding="async" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Bandeira_de_Pernambuco.svg/30px-Bandeira_de_Pernambuco.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/59/Bandeira_de_Pernambuco.svg/40px-Bandeira_de_Pernambuco.svg.png 2x" data-file-width="540" data-file-height="360">&nbsp;<a href="/wiki/Pernambuco" title="Pernambuco">Pernambuco</a>
+</td>
+<td align="right">300&nbsp;466
+</td></tr>
+<tr>
+<td>80
+</td>
+<td><a href="/wiki/Ribeir%C3%A3o_das_Neves" title="Ribeirão das Neves">Ribeirão das Neves</a>
+</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bandeira_de_Minas_Gerais.svg/20px-Bandeira_de_Minas_Gerais.svg.png" decoding="async" width="20" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bandeira_de_Minas_Gerais.svg/30px-Bandeira_de_Minas_Gerais.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bandeira_de_Minas_Gerais.svg/40px-Bandeira_de_Minas_Gerais.svg.png 2x" data-file-width="600" data-file-height="420">&nbsp;<a href="/wiki/Minas_Gerais" title="Minas Gerais">Minas Gerais</a>
+</td>
+<td align="right">298&nbsp;317
+</td></tr>
+<tr>
+<td>81
+</td>
+<td><a href="/wiki/Uberaba" title="Uberaba">Uberaba</a>
+</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bandeira_de_Minas_Gerais.svg/20px-Bandeira_de_Minas_Gerais.svg.png" decoding="async" width="20" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bandeira_de_Minas_Gerais.svg/30px-Bandeira_de_Minas_Gerais.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bandeira_de_Minas_Gerais.svg/40px-Bandeira_de_Minas_Gerais.svg.png 2x" data-file-width="600" data-file-height="420">&nbsp;<a href="/wiki/Minas_Gerais" title="Minas Gerais">Minas Gerais</a>
+</td>
+<td align="right">296&nbsp;988
+</td></tr>
+<tr>
+<td>82
+</td>
+<td><a href="/wiki/Petr%C3%B3polis" title="Petrópolis">Petrópolis</a>
+</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Bandeira_do_estado_do_Rio_de_Janeiro.svg/20px-Bandeira_do_estado_do_Rio_de_Janeiro.svg.png" decoding="async" width="20" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Bandeira_do_estado_do_Rio_de_Janeiro.svg/30px-Bandeira_do_estado_do_Rio_de_Janeiro.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Bandeira_do_estado_do_Rio_de_Janeiro.svg/40px-Bandeira_do_estado_do_Rio_de_Janeiro.svg.png 2x" data-file-width="1000" data-file-height="700">&nbsp;<a href="/wiki/Rio_de_Janeiro_(estado)" title="Rio de Janeiro (estado)">Rio de Janeiro</a>
+</td>
+<td align="right">295&nbsp;917
+</td></tr>
+<tr>
+<td>83
+</td>
+<td><a href="/wiki/Santar%C3%A9m_(Par%C3%A1)" title="Santarém (Pará)">Santarém</a>
+</td>
+<td><a href="/wiki/Par%C3%A1" title="Pará"><img alt="Pará" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/02/Bandeira_do_Par%C3%A1.svg/20px-Bandeira_do_Par%C3%A1.svg.png" decoding="async" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/02/Bandeira_do_Par%C3%A1.svg/30px-Bandeira_do_Par%C3%A1.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/02/Bandeira_do_Par%C3%A1.svg/40px-Bandeira_do_Par%C3%A1.svg.png 2x" data-file-width="900" data-file-height="600"></a>&nbsp;<a href="/wiki/Par%C3%A1" title="Pará">Pará</a>
+</td>
+<td align="right">294&nbsp;580
+</td></tr>
+<tr>
+<td>84
+</td>
+<td><a href="/wiki/Petrolina" title="Petrolina">Petrolina</a>
+</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Bandeira_de_Pernambuco.svg/20px-Bandeira_de_Pernambuco.svg.png" decoding="async" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/59/Bandeira_de_Pernambuco.svg/30px-Bandeira_de_Pernambuco.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/59/Bandeira_de_Pernambuco.svg/40px-Bandeira_de_Pernambuco.svg.png 2x" data-file-width="540" data-file-height="360">&nbsp;<a href="/wiki/Pernambuco" title="Pernambuco">Pernambuco</a>
+</td>
+<td align="right">293&nbsp;962
+</td></tr>
+<tr>
+<td>85
+</td>
+<td><a href="/wiki/Guaruj%C3%A1" title="Guarujá">Guarujá</a>
+</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg/22px-Bandeira_do_estado_de_S%C3%A3o_Paulo.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg/33px-Bandeira_do_estado_de_S%C3%A3o_Paulo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg/44px-Bandeira_do_estado_de_S%C3%A3o_Paulo.svg.png 2x" data-file-width="780" data-file-height="520">&nbsp;<a href="/wiki/S%C3%A3o_Paulo_(estado)" title="São Paulo (estado)">São Paulo</a>
+</td>
+<td align="right">290&nbsp;752
+</td></tr>
+<tr>
+<td>86
+</td>
+<td><a href="/wiki/Cascavel_(Paran%C3%A1)" title="Cascavel (Paraná)">Cascavel</a>
+</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Bandeira_do_Paran%C3%A1.svg/20px-Bandeira_do_Paran%C3%A1.svg.png" decoding="async" width="20" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Bandeira_do_Paran%C3%A1.svg/30px-Bandeira_do_Paran%C3%A1.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/93/Bandeira_do_Paran%C3%A1.svg/40px-Bandeira_do_Paran%C3%A1.svg.png 2x" data-file-width="621" data-file-height="434">&nbsp;<a href="/wiki/Paran%C3%A1" title="Paraná">Paraná</a>
+</td>
+<td align="right">286&nbsp;205
+</td></tr>
+<tr>
+<td>87
+</td>
+<td><b><a href="/wiki/Boa_Vista_(Roraima)" title="Boa Vista (Roraima)">Boa Vista</a></b>
+</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Bandeira_de_Roraima.svg/20px-Bandeira_de_Roraima.svg.png" decoding="async" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Bandeira_de_Roraima.svg/30px-Bandeira_de_Roraima.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/98/Bandeira_de_Roraima.svg/40px-Bandeira_de_Roraima.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;<a href="/wiki/Roraima" title="Roraima">Roraima</a>
+</td>
+<td align="right">284&nbsp;313
+</td></tr>
+<tr>
+<td>88
+</td>
+<td><a href="/wiki/Taubat%C3%A9" title="Taubaté">Taubaté</a>
+</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg/22px-Bandeira_do_estado_de_S%C3%A3o_Paulo.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg/33px-Bandeira_do_estado_de_S%C3%A3o_Paulo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg/44px-Bandeira_do_estado_de_S%C3%A3o_Paulo.svg.png 2x" data-file-width="780" data-file-height="520">&nbsp;<a href="/wiki/S%C3%A3o_Paulo_(estado)" title="São Paulo (estado)">São Paulo</a>
+</td>
+<td align="right">278&nbsp;686
+</td></tr>
+<tr>
+<td>89
+</td>
+<td><a href="/wiki/Limeira" title="Limeira">Limeira</a>
+</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg/22px-Bandeira_do_estado_de_S%C3%A3o_Paulo.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg/33px-Bandeira_do_estado_de_S%C3%A3o_Paulo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg/44px-Bandeira_do_estado_de_S%C3%A3o_Paulo.svg.png 2x" data-file-width="780" data-file-height="520">&nbsp;<a href="/wiki/S%C3%A3o_Paulo_(estado)" title="São Paulo (estado)">São Paulo</a>
+</td>
+<td align="right">276&nbsp;022
+</td></tr>
+<tr>
+<td>90
+</td>
+<td><a href="/wiki/S%C3%A3o_Jos%C3%A9_dos_Pinhais" title="São José dos Pinhais">São José dos Pinhais</a>
+</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Bandeira_do_Paran%C3%A1.svg/20px-Bandeira_do_Paran%C3%A1.svg.png" decoding="async" width="20" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Bandeira_do_Paran%C3%A1.svg/30px-Bandeira_do_Paran%C3%A1.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/93/Bandeira_do_Paran%C3%A1.svg/40px-Bandeira_do_Paran%C3%A1.svg.png 2x" data-file-width="621" data-file-height="434">&nbsp;<a href="/wiki/Paran%C3%A1" title="Paraná">Paraná</a>
+</td>
+<td align="right">264&nbsp;210
+</td></tr>
+<tr>
+<td>91
+</td>
+<td><a href="/wiki/Governador_Valadares" title="Governador Valadares">Governador Valadares</a>
+</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bandeira_de_Minas_Gerais.svg/20px-Bandeira_de_Minas_Gerais.svg.png" decoding="async" width="20" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bandeira_de_Minas_Gerais.svg/30px-Bandeira_de_Minas_Gerais.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Bandeira_de_Minas_Gerais.svg/40px-Bandeira_de_Minas_Gerais.svg.png 2x" data-file-width="600" data-file-height="420">&nbsp;<a href="/wiki/Minas_Gerais" title="Minas Gerais">Minas Gerais</a>
+</td>
+<td align="right">263&nbsp;689
+</td></tr>
+<tr>
+<td>92
+</td>
+<td><a href="/wiki/Suzano" title="Suzano">Suzano</a>
+</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg/22px-Bandeira_do_estado_de_S%C3%A3o_Paulo.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg/33px-Bandeira_do_estado_de_S%C3%A3o_Paulo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg/44px-Bandeira_do_estado_de_S%C3%A3o_Paulo.svg.png 2x" data-file-width="780" data-file-height="520">&nbsp;<a href="/wiki/S%C3%A3o_Paulo_(estado)" title="São Paulo (estado)">São Paulo</a>
+</td>
+<td align="right">262&nbsp;480
+</td></tr>
+<tr>
+<td>93
+</td>
+<td><a href="/wiki/Praia_Grande_(S%C3%A3o_Paulo)" title="Praia Grande (São Paulo)">Praia Grande</a>
+</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg/22px-Bandeira_do_estado_de_S%C3%A3o_Paulo.svg.png" decoding="async" width="22" height="15" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg/33px-Bandeira_do_estado_de_S%C3%A3o_Paulo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg/44px-Bandeira_do_estado_de_S%C3%A3o_Paulo.svg.png 2x" data-file-width="780" data-file-height="520">&nbsp;<a href="/wiki/S%C3%A3o_Paulo_(estado)" title="São Paulo (estado)">São Paulo</a>
+</td>
+<td align="right">262&nbsp;051
+</td></tr>
+<tr>
+<td>94
+</td>
+<td><a href="/wiki/Santa_Maria_(Rio_Grande_do_Sul)" title="Santa Maria (Rio Grande do Sul)">Santa Maria</a>
+</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bandeira_do_Rio_Grande_do_Sul.svg/20px-Bandeira_do_Rio_Grande_do_Sul.svg.png" decoding="async" width="20" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bandeira_do_Rio_Grande_do_Sul.svg/30px-Bandeira_do_Rio_Grande_do_Sul.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bandeira_do_Rio_Grande_do_Sul.svg/40px-Bandeira_do_Rio_Grande_do_Sul.svg.png 2x" data-file-width="1000" data-file-height="700">&nbsp;<a href="/wiki/Rio_Grande_do_Sul" title="Rio Grande do Sul">Rio Grande do Sul</a>
+</td>
+<td align="right">261&nbsp;031
+</td></tr>
+<tr>
+<td>95
+</td>
+<td><a href="/wiki/Mossor%C3%B3" title="Mossoró">Mossoró</a>
+</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/30/Bandeira_do_Rio_Grande_do_Norte.svg/20px-Bandeira_do_Rio_Grande_do_Norte.svg.png" decoding="async" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/30/Bandeira_do_Rio_Grande_do_Norte.svg/30px-Bandeira_do_Rio_Grande_do_Norte.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/30/Bandeira_do_Rio_Grande_do_Norte.svg/40px-Bandeira_do_Rio_Grande_do_Norte.svg.png 2x" data-file-width="900" data-file-height="600">&nbsp;<a href="/wiki/Rio_Grande_do_Norte" title="Rio Grande do Norte">Rio Grande do Norte</a>
+</td>
+<td align="right">259&nbsp;815
+</td></tr>
+<tr>
+<td>96
+</td>
+<td><a href="/wiki/Volta_Redonda" title="Volta Redonda">Volta Redonda</a>
+</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Bandeira_do_estado_do_Rio_de_Janeiro.svg/20px-Bandeira_do_estado_do_Rio_de_Janeiro.svg.png" decoding="async" width="20" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Bandeira_do_estado_do_Rio_de_Janeiro.svg/30px-Bandeira_do_estado_do_Rio_de_Janeiro.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Bandeira_do_estado_do_Rio_de_Janeiro.svg/40px-Bandeira_do_estado_do_Rio_de_Janeiro.svg.png 2x" data-file-width="1000" data-file-height="700">&nbsp;<a href="/wiki/Rio_de_Janeiro_(estado)" title="Rio de Janeiro (estado)">Rio de Janeiro</a>
+</td>
+<td align="right">257&nbsp;803
+</td></tr>
+<tr>
+<td>97
+</td>
+<td><a href="/wiki/Foz_do_Igua%C3%A7u" title="Foz do Iguaçu">Foz do Iguaçu</a>
+</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Bandeira_do_Paran%C3%A1.svg/20px-Bandeira_do_Paran%C3%A1.svg.png" decoding="async" width="20" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/93/Bandeira_do_Paran%C3%A1.svg/30px-Bandeira_do_Paran%C3%A1.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/93/Bandeira_do_Paran%C3%A1.svg/40px-Bandeira_do_Paran%C3%A1.svg.png 2x" data-file-width="621" data-file-height="434">&nbsp;<a href="/wiki/Paran%C3%A1" title="Paraná">Paraná</a>
+</td>
+<td align="right">256&nbsp;088
+</td></tr>
+<tr>
+<td>98
+</td>
+<td><a href="/wiki/Gravata%C3%AD" title="Gravataí">Gravataí</a>
+</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bandeira_do_Rio_Grande_do_Sul.svg/20px-Bandeira_do_Rio_Grande_do_Sul.svg.png" decoding="async" width="20" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bandeira_do_Rio_Grande_do_Sul.svg/30px-Bandeira_do_Rio_Grande_do_Sul.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bandeira_do_Rio_Grande_do_Sul.svg/40px-Bandeira_do_Rio_Grande_do_Sul.svg.png 2x" data-file-width="1000" data-file-height="700">&nbsp;<a href="/wiki/Rio_Grande_do_Sul" title="Rio Grande do Sul">Rio Grande do Sul</a>
+</td>
+<td align="right">255&nbsp;660
+</td></tr>
+<tr>
+<td>99
+</td>
+<td><a href="/wiki/V%C3%A1rzea_Grande_(Mato_Grosso)" title="Várzea Grande (Mato Grosso)">Várzea Grande</a>
+</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Bandeira_de_Mato_Grosso.svg/20px-Bandeira_de_Mato_Grosso.svg.png" decoding="async" width="20" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Bandeira_de_Mato_Grosso.svg/30px-Bandeira_de_Mato_Grosso.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Bandeira_de_Mato_Grosso.svg/40px-Bandeira_de_Mato_Grosso.svg.png 2x" data-file-width="2000" data-file-height="1400">&nbsp;<a href="/wiki/Mato_Grosso" title="Mato Grosso">Mato Grosso</a>
+</td>
+<td align="right">252&nbsp;596
+</td></tr>
+<tr>
+<td>100
+</td>
+<td><a href="/wiki/Juazeiro_do_Norte" title="Juazeiro do Norte">Juazeiro do Norte</a>
+</td>
+<td><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Bandeira_do_Cear%C3%A1.svg/20px-Bandeira_do_Cear%C3%A1.svg.png" decoding="async" width="20" height="14" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Bandeira_do_Cear%C3%A1.svg/30px-Bandeira_do_Cear%C3%A1.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Bandeira_do_Cear%C3%A1.svg/40px-Bandeira_do_Cear%C3%A1.svg.png 2x" data-file-width="720" data-file-height="504">&nbsp;<a href="/wiki/Cear%C3%A1" title="Ceará">Ceará</a>
+</td>
+<td align="right">249&nbsp;939
+</td></tr></tbody>
