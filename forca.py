@@ -29,7 +29,7 @@ def jogar():
         posicao = palavra_secreta.find(chute)
         if posicao > -1:
             while posicao > -1:
-                letras_acertadas[posicao] = palavra_secreta_display[posicao]
+                letras_acertadas[posicao] = palavra_secreta[posicao]
                 posicao = palavra_secreta.find(chute, posicao + 1)
         # A letra chutada não foi encontrada na palavra
         else:
@@ -53,6 +53,7 @@ def jogar():
         print("Você acertou a palavra {}!".format(palavra_secreta_display))
     else:
         print("Você perdeu TUDO.")
+        print("A palavra era {}".format(palavra_secreta_display))
 
     print("\nFim do jogo!")
 
@@ -64,17 +65,17 @@ def imprimir_mensagem_inicio():
 
 
 def carregar_palavra_secreta():
-    arquivo = open("palavras.txt", "r")
+    arquivo = open("cidades.txt", "r", -1, "utf-8")
 
     cidades = []
     for linha in arquivo:
-        linha = linha.strip()
+        linha = linha.strip("\n")
         cidades.append(linha)
     arquivo.close()
 
     numero = random.randrange(0, len(cidades))
-    palavra = cidades[numero][:-4].strip()
-    palavra_secreta_tuple = (palavra.capitalize(), util.ignora_acento(palavra.upper()))
+    palavra = cidades[numero]
+    palavra_secreta_tuple = (palavra.strip(), util.ignora_acento(palavra.upper().replace(" ", "")))
     return palavra_secreta_tuple
 
 

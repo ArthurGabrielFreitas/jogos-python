@@ -12,7 +12,8 @@ def ignora_acento(palavra):
             "Ó": "O",
             "Õ": "O",
             "Ô": "O",
-            "Ú": "U"
+            "Ú": "U",
+            "Ç": 'C'
         }.get(letra, letra)
         nova_palavra += letra
     return nova_palavra
