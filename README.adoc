@@ -1,0 +1,6 @@
+# jogos-python
+
+Códigos dos cursos da alura:
+
+* Python 3 parte 1: Introdução à nova versão da linguagem footnote:[https://cursos.alura.com.br/course/python-3-introducao-a-nova-versao-da-linguagem]
+* Python 3 parte 2: Avançando na linguagem footnote:[https://cursos.alura.com.br/course/python-3-avancando-na-linguagem]
